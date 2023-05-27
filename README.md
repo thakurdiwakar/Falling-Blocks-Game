@@ -1,6 +1,4 @@
 
-
-```
 # Falling Blocks Game
 
 A simple falling blocks game implemented using HTML, CSS, and JavaScript.
