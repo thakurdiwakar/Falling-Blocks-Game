@@ -41,9 +41,3 @@ Use the left and right arrow keys to move the block horizontally. The block will
 - CSS
 - JavaScript
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-In this code snippet, you can replace "your-username" with your actual GitHub username if you decide to host the game on GitHub. Also, make sure to include a relevant screenshot of the gameplay by replacing "screenshot.png" with the actual filename of the screenshot image.
