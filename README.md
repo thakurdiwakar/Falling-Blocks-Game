@@ -3,7 +3,7 @@
 
 A simple falling blocks game implemented using HTML, CSS, and JavaScript.
 
-![Gameplay](screenshot.png)
+![Gameplay](Game.png)
 
 ## Getting Started
 
