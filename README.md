@@ -33,7 +33,20 @@ To run the game, you need a web browser that supports HTML5, CSS3, and JavaScrip
 
 The objective of the game is to control a falling block and prevent it from reaching the bottom of the game container. The block falls continuously from the top of the container, and your task is to move the block left or right to avoid obstacles and keep it from touching the bottom.
 
-Use the left and right arrow keys to move the block horizontally. The block will wrap around to the opposite side when reaching the edge of the container.
+## Controls
+
+Arrow Left: Move the player platform to the left.
+
+Arrow Right: Move the player platform to the right.
+
+Spacebar: Pause the game.
+
+R: Resume the game.
+
+Enter: Restart the game.
+
+## High score
+The high score is stored in local storage. The player with the highest score at the end of the game wins!
 
 ## Built With
 
